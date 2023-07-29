@@ -11,8 +11,7 @@ Blogger link: https://eunhanspace.blogspot.com/2023/07/leetcode-42-trapping-rain
 
 - At least three elements (1, 0, 1) are required to hold water, so we need a minimum of three elements.
 - Algorithm
-
-![]([LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled.png](https://raw.githubusercontent.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/master/photo/00.png))
+![00](https://github.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/blob/master/photo/00.png)
 
 - We find the highest blocks on the left and right sides with respect to the position we want to check.
 
