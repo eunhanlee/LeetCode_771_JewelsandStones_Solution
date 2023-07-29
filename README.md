@@ -15,21 +15,21 @@ Blogger link: https://eunhanspace.blogspot.com/2023/07/leetcode-42-trapping-rain
 
 - We find the highest blocks on the left and right sides with respect to the position we want to check.
 
-![LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%201.png](LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%201.png)
+![01](https://github.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/blob/master/photo/01.png)
 
 - We can fill water up to the minimum of these two heights.
 - Now, we subtract the block's height at the position to get the height of the water that can be filled.
 
-![LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%202.png](LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%202.png)
+![02](https://github.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/blob/master/photo/02.png)
 
 - Repeat the process for all positions.
 - To use the above algorithm, we need to loop in advance to get the highest block on the right and left.
 
-![LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%203.png](LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%203.png)
+![03](https://github.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/blob/master/photo/03.png)
 
 - Below, you can see the necessary values for each position.
 
-![LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%204.png](LeetCode%2042%20Trapping%20Rain%20Water%20Java%20Solution%207d55afb9c52942b19a7831ffe9819407/Untitled%204.png)
+![04](https://github.com/eunhanlee/LeetCode_771_JewelsandStones_Solution/blob/master/photo/04.png)
 
 ## Github Link
 
