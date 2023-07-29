@@ -1,6 +1,7 @@
 # LeetCode 42. Trapping Rain Water Java Solution
 
 Hashnode Link: https://eunhanlee.hashnode.dev/leetcode-42-trapping-rain-water-java-solution
+
 Blogger link: https://eunhanspace.blogspot.com/2023/07/leetcode-42-trapping-rain-water-java.html
 
 ## Problem
